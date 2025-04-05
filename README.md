@@ -36,9 +36,17 @@ J.A.R.V.I.S is an intelligent desktop assistant built in Python that responds to
 ```bash
 git clone https://github.com/akshatraisaxena/jarvis.git
 cd jarvis
+```
 
 2.Install Required Libraries
+```bash
 pip install SpeechRecognition pyttsx3 openai
+```
 3.Run the Assistant
+```bash
 python jarvis.py
+```
+---
+## 📜 License
 
+This project is for personal and educational use only. Feel free to explore the code and ideas!
